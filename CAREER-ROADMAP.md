@@ -28,13 +28,15 @@
 * **Focus:** **Matplotlib, Seaborn**을 활용한 거시 경제-주가 상관관계 차트 생성.
 * **Practice:** 프로젝트 README에 영문 분석 리포트 결합 (WSJ 스타일).
 
-### Phase 4: Big Data Portfolio (July)
-* **Core:** S&P 500 조사를 통한 퀀트 포트폴리오 구축.
-* **Project:** 10년 치 주계 데이터를 활용한 섹터별 성과 및 변동성 분석 프로젝트 완료.
+### Phase 4: S&P 500 Quantitative Analysis (July)
+* **Project: "The Decadal Sector Rotation Analysis"**
+* **Details:** 10년 치 주계 데이터를 활용하여 금리 인상/하락기 등 매크로 이벤트 시 섹터별 성과 및 변동성 상관관계 통계 분석.
+* **Goal:** "과거 데이터를 통해 시장의 뼈대를 해부하는 능력 증명"
 
 ### Phase 5: Investment & Risk Screener (August)
-* **Core:** 님의 독자적인 로직이 담긴 실무용 데이터 툴 개발.
-* **Project:** 특정 매크로 리스크 발생 시 타격 기업을 자동 추출하는 **'Risk/Investment Screener'** 제작.
+* **Project: "Macro-Shock Sensitivity Screener (MSSS)"**
+* **Details:** 특정 매크로 리스크(관세 인상, 강달러 등) 발생 시 기업별 익스포저(FX Exposure)와 예상 마진 타격을 자동 산출하는 스크리닝 툴 개발.
+* **Goal:** "실시간 매크로 위기에 대응하는 자동화 솔루션 개발 능력 증명"
 
 ### Phase 6: NYC Networking & Recruiting (September)
 * **Core:** 기술 포트폴리오를 무기로 뉴욕 현지 시장 공략.
