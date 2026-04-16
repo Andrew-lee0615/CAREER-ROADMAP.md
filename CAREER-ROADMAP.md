@@ -1,43 +1,68 @@
-# 🗽 Project NYC: Data-Driven Finance Specialist
-> **Goal:** SQL과 Python을 결합하여 뉴욕 금융권(Investment/Risk)에 취업
+# 🗽 Project NYC 2.0: The Strategic Investment Analyst
+> **Objective:** Secure a Risk/Investment Analyst position in NYC by Q4 2026.
+> **Deadline:** November 2026 (NYC Arrival)
+---
 
-## 🎯 Target Career Path
-* **Investment & Market Risk Analyst**
-* **Quantitative Strategy & Data Analytics**
+## 🎯 Target Roles & Focus
+* **Primary:** Market Risk Analyst / Investment Analyst (Buy-side)
+* **Specialization:** Macro-driven Risk Management & Quantitative Strategy
+* **Location:** New York City (Manhattan)
 
-## 🛠 Strategic Skill Sets
-1. **Database:** Advanced SQL (Financial Scenario Modeling)
-2. **Data Science:** Python (Pandas, NumPy) for Financial Automation
-3. **Visualization:** Matplotlib, Seaborn (Macro Insight Dashboard)
-4. **Communication:** WSJ/The Daily 기반 영문 금융 분석 리포트
+---
 
-## 📅 6-Month Master Plan (2026)
+## 📅 High-Intensity Action Plan (April - October)
 
-### Phase 1: SQL & Financial Logic (April) - *IN PROGRESS*
-* **Core:** 금융 지표를 SQL로 모델링하고 깃허브에 매일 업로드
-* **Focus:** 쿼리를 통한 리스크 시나리오 분석 및 거시 경제 변수 데이터화.
-* **Practice:** IBVine/WSP 기반 기술 면접 및 Behavioral 질문 영문 답변 프레임워크 구축.
+### Phase 1: Technical Mastery & Market Voice (April) - `IN PROGRESS`
+* **Engineering:** Build automated SQL-to-Python pipelines for core risk metrics (MDD, Volatility, Beta).
+* **Market Insight:** Deep dive into 'Passive Flow' and 'Liquidity' risks (via Carson Block podcasts/WSJ).
+* **Communication:** Draft daily 300-word English macro reports to build a "Market Voice."
+* **Deliverable:** GitHub Repositories with professional READMEs and visualized risk dashboards.
 
-### Phase 2: Python & Pandas Automation (May)
-* **Core:** 엑셀 기반의 재무 분석 업무를 Python 코드로 완전 자동화.
-* **Focus:** **Pandas**를 활용한 대규모 금융 데이터 전처리 및 통계 분석 마스터.
-* **Project:** 자산 수익률 및 리스크 계산 자동화 스크립트 구축.
+### Phase 2: Professional Modeling & Interview Logic (May - June)
+* **Hard Skills:** Mastery of **Risk Models (VaR, Stress Testing)** and Financial Statement Analysis.
+* **Technical Interview:** Daily drills of Mental Math, Probability, and Brain Teasers (NYC Quant standard).
+* **Behavioral:** Complete a 50-question "Interview Playbook" using the **STAR Method**.
+* **Deliverable:** Python-based **'Portfolio Stress Test Simulator'** for historical crisis scenarios.
 
-### Phase 3: Matplotlib & Data Visualization (June)
-* **Core:** 분석 결과를 시각화하여 데이터 기반의 의사결정 통찰 제공.
-* **Focus:** **Matplotlib, Seaborn**을 활용한 거시 경제-주가 상관관계 차트 생성.
-* **Practice:** 프로젝트 README에 영문 분석 리포트 결합 (WSJ 스타일).
+### Phase 3: Networking & NYC Market Penetration (July - August)
+* **Networking:** Initiate **Virtual Coffee Chats** with NYC-based professionals (Target: 2+ per week).
+* **Optimization:** Tailor Resume and LinkedIn for ATS (Applicant Tracking Systems) and NYC recruiters.
+* **Showcasing:** Finalize the "Macro-Shock Sensitivity Screener (MSSS)" and promote via LinkedIn.
+* **Deliverable:** Optimized Resume and a curated list of 50+ NYC target firms.
 
-### Phase 4: S&P 500 Quantitative Analysis (July)
-* **Project: "The Decadal Sector Rotation Analysis"**
-* **Details:** 10년 치 주계 데이터를 활용하여 금리 인상/하락기 등 매크로 이벤트 시 섹터별 성과 및 변동성 상관관계 통계 분석.
-* **Goal:** "과거 데이터를 통해 시장의 뼈대를 해부하는 능력 증명"
+### Phase 4: Full-Scale Recruiting & Aggressive Pitching (September - October)
+* **Applications:** Execute cold-emailing strategies and high-volume job applications.
+* **Mock Interviews:** Conduct 2+ English mock interviews weekly focusing on **Stock/Risk Pitching**.
+* **Final Polish:** Refine a "3-Minute Market View" covering Inflation, Rates, and Sector Exposure.
+* **Deliverable:** Secured interview pipeline and finalized offer negotiation strategy.
 
-### Phase 5: Investment & Risk Screener (August)
-* **Project: "Macro-Shock Sensitivity Screener (MSSS)"**
-* **Details:** 특정 매크로 리스크(관세 인상, 강달러 등) 발생 시 기업별 익스포저(FX Exposure)와 예상 마진 타격을 자동 산출하는 스크리닝 툴 개발.
-* **Goal:** "실시간 매크로 위기에 대응하는 자동화 솔루션 개발 능력 증명"
+---
 
-### Phase 6: NYC Networking & Recruiting (September)
-* **Core:** 기술 포트폴리오를 무기로 뉴욕 현지 시장 공략.
-* **Action:** 깃허브 링크 포함된 이력서 최적화 및 현지 리크루터 네트워킹 시작.
+## ⏰ 4-Hour Hardcore Daily Sprint (The "NYC Grind")
+
+| Hour | Category | Action Item |
+| :--- | :--- | :--- |
+| **00~60m** | **Market View** | Read WSJ/Bloomberg + Draft a 300-word analysis + Practice Pitching. |
+| **60~120m** | **Tech & Coding** | Advanced SQL (Window Functions) & Python (Quant Modeling/Risk Metrics). |
+| **120~180m** | **Interview Prep** | Technical/Behavioral question prep + Mental Math + Probability drills. |
+| **180~240m** | **Documentation** | GitHub Commits + LinkedIn Networking + Cold Emailing/Application tasks. |
+
+---
+
+## 🛠 Strategic Skill Sets (Tech & Finance)
+
+### 1. Quantitative & Programming
+* **SQL:** Financial Scenario Modeling, Window Functions, CTEs for Time-Series.
+* **Python:** Pandas (Data Wrangling), NumPy (Linear Algebra), Scipy (Stats), Matplotlib (Viz).
+* **Infrastructure:** Google Colab, GitHub, Bloomberg Conceptual Knowledge.
+
+### 2. Risk & Investment Domain
+* **Metrics:** VaR, CVaR, Sharpe/Sortino Ratio, Maximum Drawdown (MDD), Beta.
+* **Macro Focus:** Fed Policy, Yield Curve Analysis, Liquidity Dynamics, Passive Indexing Risks.
+* **Frameworks:** DCF, LBO (Basic), Risk-Adjusted Return Analysis.
+
+---
+
+## 📈 Daily Progress Log (Summary)
+* **2026-04-16:** Successfully migrated MDD logic to Python; Integrated Matplotlib visualization; Updated NYC Fast-Track Roadmap.
+* **Next Goal:** Implement `yfinance` real-market data integration & Start Daily Market Pitch drills.
