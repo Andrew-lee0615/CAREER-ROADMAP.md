@@ -61,3 +61,28 @@
 * **Metrics:** VaR, CVaR, Sharpe/Sortino, MDD, Correlation Spikes, Greeks (for Derivatives risk).
 * **Macro:** Monetary Policy Analysis, Liquidity Dynamics, Credit Cycle Analysis.
 * **Frameworks:** Scenario Analysis, Sensitivity Testing, Fundamental Valuation (DCF/Multiples).
+
+## 🚀 Daily Sprint Workflow (4-Hour Routine)
+This workflow is designed to simulate the day-to-day operations of a Quant Analyst: identifying market hypotheses, verifying them with data, and communicating insights.
+
+### Phase 1: Hypothesis Intake (30m)
+* **Activity:** Listen to financial podcasts (e.g., WSJ, Bloomberg) and extract a core investment thesis.
+* **Output:** Initial English Memo (Draft).
+
+### Phase 2: Data Engineering - SQL (45m)
+* **Activity:** Filter relevant datasets and write optimized DB queries to extract target metrics.
+* **Output:** Updated `SQL-Library` repository.
+
+### Phase 3: Empirical Verification - Python (1h 15m)
+* **Activity:** Conduct data visualization, backtesting, and statistical verification (Correlation, MDD, Sharpe Ratio).
+* **Output:** `[Number]_[Asset]_[Analysis_Type].ipynb` in `Quant-Analysis-Python`.
+
+### Phase 4: Critical Conclusion (30m)
+* **Activity:** Critique the original hypothesis based on data results. Formulate a data-driven final verdict.
+* **Output:** Final "Conclusion & Critique" section in the notebook/log.
+
+### Phase 5: Interview Simulation & Pitch (1h)
+* **Activity:** Practice oral delivery of the findings. Refine professional terminology and phrasing.
+* **Output:** Oral Pitch Prep (Ready for interviews).
+
+---
